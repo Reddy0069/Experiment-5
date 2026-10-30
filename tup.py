@@ -22,4 +22,4 @@ print("List:", lst)
 # Convert list back to tuple
 new_tup = tuple(lst)
 print("Tuple after conversion:", new_tup)
-```
+
