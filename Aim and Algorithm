@@ -1,0 +1,17 @@
+**Aim:** To perform various operations on a tuple.
+
+**Algorithm:**
+
+1. Start.
+2. Initialize a tuple with the values 20, 40, 60, 80, and 100.
+3. Print the created tuple.
+4. Access and display the first and last elements.
+5. Determine and print the total number of elements in the tuple.
+6. Find the occurrences of 20 and display the count.
+7. Retrieve and display the position of element 60.
+8. Identify and print the largest and smallest values in the tuple.
+9. Compute and display the sum of all the elements.
+10. Verify whether the value 40 exists in the tuple and display the result.
+11. Convert the tuple into a list and print it.
+12. Convert the list into a tuple again and display the result.
+13. Stop.
