@@ -1,7 +1,6 @@
-**Aim:** To perform various operations on a tuple.
+Aim: To perform various operations on a tuple.
 
-**Algorithm:**
-
+Algorithm:
 1. Start.
 2. Initialize a tuple with the values 20, 40, 60, 80, and 100.
 3. Print the created tuple.
